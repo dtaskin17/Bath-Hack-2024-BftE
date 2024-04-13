@@ -1,7 +1,0 @@
-{
-  "name": "BathHack",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
